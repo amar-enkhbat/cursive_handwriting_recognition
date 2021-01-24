@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+kaggle_A-Z_dataset/
+model_checkpoints/
+report/
