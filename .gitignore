@@ -4,3 +4,4 @@ __pycache__/
 kaggle_A-Z_dataset/
 model_checkpoints/
 report/
+sliding_window.ipynb
